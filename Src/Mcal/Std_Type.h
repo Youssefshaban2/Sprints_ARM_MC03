@@ -15,6 +15,9 @@ typedef long double float96;         //12byte * 8bits = 96 bits
 #define Enable  1
 #define Disable 0
 
+#define High  1
+#define Low 0
+
 typedef enum{
     False,
     True
